@@ -1,5 +1,5 @@
-no1 = 1
-no2 = 2
+no1 = 10
+no2 = 24
 no3 = 3
 if (no1 >= no2) and (no1 >= no3):
    largest = no1
