@@ -1,4 +1,4 @@
-char=raw_input("Enter a character:")
+char= a 
 if((char>='a' and char<= 'z')or(char>='A' and char<='Z')):
     print("Alphabet")
 else:
