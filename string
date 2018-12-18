@@ -1,0 +1,3 @@
+#python
+string = '15460'
+print(string.isdigit()) 
